@@ -10,6 +10,7 @@
 ## Prepare our professional tools
 
 ## Exploration UX and UI
+- [Getting Started in UX](https://www.youtube.com/watch?v=78MGzBNHn8k)
 
 ## Frontend Resources
 
