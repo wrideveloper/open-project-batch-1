@@ -8,10 +8,21 @@
 ## Learn Algorithm and Pseudocode
 
 ## Prepare our professional tools
+### Picking OS
+- [Ubuntu]()
+
+### Text Editor
+- [Atom]()
+- [VSCode]()
+
+### Modern CLI
+- [Course ZSH from Wesbos](https://commandlinepoweruser.com/) 
+
 
 ## Exploration UX and UI
 - [Getting Started in UX](https://www.youtube.com/watch?v=78MGzBNHn8k)
 
 ## Frontend Resources
+- [Grid CSS from Scrimba](https://scrimba.com/g/gR8PTE)
 
 ## Backend Resources
