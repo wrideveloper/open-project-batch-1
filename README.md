@@ -3,6 +3,8 @@
 ## Inspirational videos about technology , computer and code
 - [Growth Mindset vs Fixed Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU)
 - [How To Learn Anything Faster - 5 Tips to Increase your Learning Speed](https://www.youtube.com/watch?v=rA2XHWM__yE&feature=youtu.be)
+- [Tips Menjadi Programmer Pemula](https://www.youtube.com/watch?v=1Zj4lX01Rgk)
+- [How To Learn Anything Faster](https://www.youtube.com/watch?v=rA2XHWM__yE&feature=youtu.be)
 
 
 ## Learn Algorithm and Pseudocode
@@ -15,17 +17,24 @@
 - [Atom]()
 - [VSCode]()
 
-### Command Line
+### CLI Basics
 - [iTerm]()
 - [cmder]()
 - [gnome terminal]()
 
-### Modern CLI
+### Explore Various Developer Tools
 - [Course ZSH from Wesbos](https://commandlinepoweruser.com/) 
+- [Inspect Element on Websites](https://zapier.com/blog/inspect-element-tutorial/)
+- [Mastering Markdown](https://masteringmarkdown.com)
+- [Learn Git](https://codecademy.com/learn/learn-git)
+- [Essentials Git Command](https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl)
 
 
 ## Exploration UX and UI
 - [Getting Started in UX](https://www.youtube.com/watch?v=78MGzBNHn8k)
+
+## Web Development
+- [Web Development Courses](https://www.udacity.com/courses/web-development)
 
 ## Frontend Resources
 - [CSS Grid from Scrimba](https://scrimba.com/g/gR8PTE)
